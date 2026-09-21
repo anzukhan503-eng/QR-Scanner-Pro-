@@ -1,0 +1,6 @@
+{
+  "name": "QR Scanner Pro",
+  "description": "Professional native QR code scanner and generator with flashlight, history, and smart notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
